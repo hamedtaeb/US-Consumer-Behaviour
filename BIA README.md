@@ -4,7 +4,8 @@
 This Business Intelligence project analyzes the structural shift in American household savings and spending habits following the 2021-2022 inflationary spike. By synthesizing macro-economic data, I identified a **$1.61 Billion cumulative savings shortfall** and visualized the "Scissor Effect" that has redefined the modern consumer landscape.
 
 ## 🚀 Key Insights
-* **The $1.61B Savings Gap**: Since 2021, households have under-saved by over $1.61 Billion compared to the 10-year historical baseline.
+* **The $1.61B Savings Gap**: The $1.61B Savings Gap: Since 2021, households have under-saved by over $1.61 Billion compared to the 10-year historical baseline.  
+*Calculated as the cumulative delta between the observed Personal Savings Rate and the 2015–2019 baseline trend, applied to national Disposable Personal Income.*
 * **The Scissor Effect**: Identified the critical pivot point in early 2022 where the cost of living (Inflation) officially surpassed the personal saving rate.
 * **The Debt Pivot**: Documented the direct correlation between the decline in personal savings and the surge in high-interest consumer debt.
 * **Purchasing Power Trap**: As of 2025, real purchasing power remains stagnant; spending growth is almost entirely offset by the cost of living.
@@ -13,6 +14,25 @@ This Business Intelligence project analyzes the structural shift in American hou
 * **Power BI**: Data modeling, DAX measure creation, and Executive Dashboard design.
 * **Data Transformation**: Cleaned and normalized Year-over-Year (YoY) growth metrics for Inflation, Spending, and Debt.
 * **Analytical Framework**: Applied a "Regime/Era" analysis to compare Pre-Pandemic stability vs. Post-Inflation volatility.
+* **Data Sources**: Macroeconomic data sourced from FRED (Federal Reserve Economic Data), including Personal Savings Rate, CPI (CPIAUCSL), Disposable Personal Income, and Consumer Credit Outstanding.
+
+## 🔬 Methodology
+
+### Baseline Definition
+The Pre-Pandemic baseline was defined as the average Personal Savings Rate from 2015–2019. This period was used to represent stable economic conditions before COVID-19 disruptions.
+
+### Savings Gap Calculation
+The cumulative savings gap was calculated by:
+
+- Measuring the monthly difference between the actual Personal Savings Rate and the 2015–2019 baseline average  
+- Applying that difference to national Disposable Personal Income  
+- Summing the total shortfall from January 2021 onward  
+
+### Inflation & Purchasing Power Analysis
+Inflation was measured using CPI (CPIAUCSL). Purchasing power trends were evaluated by comparing consumer spending growth against increases in the cost of living.
+
+### Debt Correlation Assessment
+Consumer Credit Outstanding was analyzed alongside declining savings rates to identify the shift toward debt-financed spending.
 
 ## 🎥 Executive Briefing
 To see a 5-minute walkthrough of the data story and the "Scissor Effect" identified in this analysis, watch the briefing below:
@@ -29,4 +49,4 @@ This slide synthesizes the technical data into three actionable pillars: the ero
 <img width="557" height="322" alt="image" src="https://github.com/user-attachments/assets/3bc3ec15-da6c-4af9-93a7-2e15b3b62989" />
 
 ## 🏁 Conclusion
-The analysis proves that the "New Normal" for the U.S. consumer is a high-debt, low-savings environment. The record 31.8% savings surplus of 2020 has been completely eroded, leaving households more vulnerable to economic shocks in 2026 and beyond.
+The analysis suggests that the “New Normal” for the U.S. consumer is a structurally higher-debt, lower-savings environment. The record 31.8% savings surplus of 2020 has been completely eroded, leaving households more vulnerable to economic shocks in 2026 and beyond.
