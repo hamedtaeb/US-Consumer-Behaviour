@@ -13,6 +13,10 @@ This Business Intelligence project analyzes the structural shift in American hou
 * **Power BI**: Data modeling, DAX measure creation, and Executive Dashboard design.
 * **Data Transformation**: Cleaned and normalized Year-over-Year (YoY) growth metrics for Inflation, Spending, and Debt.
 * **Analytical Framework**: Applied a "Regime/Era" analysis to compare Pre-Pandemic stability vs. Post-Inflation volatility.
+
+## 🎥 Executive Briefing
+To see a 5-minute walkthrough of the data story and the "Scissor Effect" identified in this analysis, watch the briefing below:
+https://www.loom.com/share/0ecad16638fb4f0d875642a2c69b77e6
   
 ### 📈 Interactive Dashboard
 The dashboard identifies the **$1.61B savings gap** and visualizes the 2022 "Scissor Effect" where inflation overtook household savings.
