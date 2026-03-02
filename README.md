@@ -21,50 +21,55 @@ The goal was not just visualization but statistical proof.
 ## 📂 Data Sources
 
 ### Indicators
-    - Real Personal Consumption Expenditures
-    - Personal Saving Rate
-    - Consumer Credit Outstanding
-    - CPI (CPIAUCSL)
+- Real Personal Consumption Expenditures
+- Personal Saving Rate
+- Consumer Credit Outstanding
+- CPI (CPIAUCSL)
 
 All data sourced from FRED.
 
 ## 🛠 Technical Stack
-    - Python
-    - Pandas
-    - NumPy
-    - Statsmodels
-    - Prophet
-    - Ruptures
-    - Scikit-learn
-    - Matplotlib
+- Python
+- Pandas
+- NumPy
+- Statsmodels
+- Prophet
+- Ruptures
+- Scikit-learn
+- Matplotlib
 
 ## ▶️ How to Run the Project
-    1. Clone Repository
-    `git clone https://github.com/hamedtaeb/US-Consumer-Behaviour.git`
-    `cd us-consumer-structural-break`
+1. Clone Repository
+```
+git clone https://github.com/hamedtaeb/US-Consumer-Behaviour.git
+cd us-consumer-structural-break
+```
 
-    2. Install Dependencies
-    pip install -r requirements.txt
-
-    3. Run Notebooks
-    Open Jupyter:
-    jupyter notebook
-
+2. Install Dependencies
+```
+pip install -r requirements.txt
+```
+    
+3. Run Notebooks
+Open Jupyter:
+```
+jupyter notebook
+```
+    
 Run notebooks in order:
-    1. Data Cleaning & Merge
-    2. Feature Engineering
-    3. Structural Break Analysis
-    4. Prophet Counterfactual Modeling
-    5. Hypothesis Testing
+1. Data Cleaning & Merge
+2. Feature Engineering
+3. Structural Break Analysis
+4. Prophet Counterfactual Modeling
+5. Hypothesis Testing
 
 ## 📊 Deliverables Included
-
-    - Cleaned master dataset
-    - Model notebooks
-    - Structural break visualizations
-    - Statistical outputs
-    - Technical report
-    - Final presentation deck
+- Cleaned master dataset
+- Model notebooks
+- Structural break visualizations
+- Statistical outputs
+- Technical report
+- Final presentation deck
 
 ## 🤝 Collaboration
 
@@ -75,16 +80,14 @@ The BI team developed dashboards and executive storytelling based on these outpu
 Both tracks operated in parallel and contributed to a shared final presentation.
 
 ### 👨‍💻 Data Science / AI-ML
-
-    Jeel Faldu
-    Trevor 
-    Hamed Taeb
-    Troy
+- Jeel Faldu
+- Trevor
+- Hamed Taeb
+- Troy
 
 ### 📊 Business Intelligence
-
-    Bhavani 
-    Christal
+- Bhavani
+- Christal
 
 
 ## 🏁 Conclusion
