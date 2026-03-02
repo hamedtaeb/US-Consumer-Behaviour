@@ -81,13 +81,13 @@ Both tracks operated in parallel and contributed to a shared final presentation.
 
 ### 👨‍💻 Data Science / AI-ML
 - Jeel Faldu
-- Trevor
+- Trevor Brooks
 - Hamed Taeb
-- Troy
+- Troy Sanders
 
 ### 📊 Business Intelligence
-- Bhavani
-- Christal
+- Bhavani Balasubramanian
+- Christal Bowers-Ingram
 
 
 ## 🏁 Conclusion
